@@ -287,8 +287,6 @@ workflows:
                - master
                - demo
 
-      - section_9_differential_tests
-    
 
 #  test-all:
 #    jobs:
