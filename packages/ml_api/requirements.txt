@@ -12,3 +12,6 @@ regression-model==2.0.20
 
 # Deployment
 gunicorn==19.9.0
+
+# Compatibility
+markupsafe==2.0.1
